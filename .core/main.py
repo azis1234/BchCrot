@@ -96,9 +96,9 @@ try:
   UravxBuCwNMpYWTzKhPI("\033[1;31m██╔══██╗██║     ██╔══██║\033[1;37m██╔══██╗██║   ██║   ██║   ")
   UravxBuCwNMpYWTzKhPI("\033[1;31m██████╔╝╚██████╗██║  ██║\033[1;37m██████╔╝╚██████╔╝   ██║   ")
   UravxBuCwNMpYWTzKhPI("\033[1;31m╚═════╝  ╚═════╝╚═╝  ╚═╝\033[1;37m╚═════╝  ╚═════╝    ╚═╝  \n")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mAuthor   \033[0;37m: Njank Soekamti")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mYoutube  \033[0;37m: Njank Soekamti")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mGithub   \033[0;37m: N74NK\n")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mAuthor   \033[0;37m: Kang Azis")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mYoutube  \033[0;37m: AW 2000")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mwhatshap \033[0;37m: 085771758288")
  async def UravxBuCwNMpYWTzKhPF():
   if not UravxBuCwNMpYWTzKhPb.exists("session"):
    UravxBuCwNMpYWTzKhPo("session")
